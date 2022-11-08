@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * Fix score pub dev
+
+## 0.0.3
+
+* Add init example
