@@ -1,7 +1,10 @@
 name: grid_animation
-description: A new Flutter package project.
-version: 0.0.1
-homepage: 
+description: Grid view Gridview_Animation is like dealing cards. 
+version: 0.0.2
+homepage: https://github.com/lovekid1997/grid_view_animation
+repository: https://github.com/lovekid1997/grid_view_animation
+issue_tracker: https://github.com/lovekid1997/grid_view_animation/issues
+documentation: https://github.com/lovekid1997/grid_view_animation/blob/main/README.md
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
